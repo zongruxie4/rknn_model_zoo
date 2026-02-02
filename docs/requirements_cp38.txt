@@ -1,7 +1,7 @@
 # if install failed, please change the pip source to 'https://mirrors.aliyun.com/pypi/simple/'
 
 # base deps
-protobuf==4.25.8
+protobuf==6.33.5
 
 # utils
 psutil>=5.9.0
